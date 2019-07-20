@@ -1,0 +1,11 @@
+# ignore build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# ignore nuget packages folder
+/packages
+/NuGet
